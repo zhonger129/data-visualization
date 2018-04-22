@@ -5,7 +5,7 @@ The purpose of this analysis bases on the dataset of Titanic passengers. We will
 
 ## Design
 
-As I shall focus on using d3.js for data visualization, but less data wrangling in this project. Therefore, I select Titanic data as my dataset of visualization. There are some passengers don't have age information in Titanic data, I use python to fill the missing age with median, and group the passengers to groups over 10 ten years.
+As I shall focus on using d3.js for data visualization, but less data wrangling in this project. Therefore, I select Titanic data as my dataset of visualization. There are some passengers don't have age information in Titanic data, I use python (refer to code exploration.ipynb) to fill the missing age with median, and group the passengers to groups over 10 ten years.
 
 This analysis will create a visualization that shows the passenger survival rate information between those passengers who survived and those who died, including dimensionality for overall passenger, male and female over age.
 
