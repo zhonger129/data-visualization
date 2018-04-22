@@ -20,11 +20,11 @@ This visualization mainly compare the survival rate between the selected passeng
 
 ## Resources
 
-Udacity course
+Udacity course  
 https://classroom.udacity.com/nanodegrees/nd002-cn-advanced/parts/7f46cd58-8041-4d9d-88a5-4b7c6f7be63e
 
-SVG
+SVG  
 https://developer.mozilla.org/en-US/docs/Web/SVG
 
-D3.js
+D3.js  
 https://d3js.org/
